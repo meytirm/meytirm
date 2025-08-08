@@ -37,6 +37,8 @@ I'm a Senior Frontend Developer with a strong focus on building fast, scalable, 
   <br/>
   <img src="https://streak-stats.demolab.com?user=meytirm&theme=default" />
 </p>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+
 
 ---
 
