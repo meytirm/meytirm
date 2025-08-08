@@ -40,8 +40,6 @@ I'm a Senior Frontend Developer with a strong focus on building fast, scalable, 
 
 ---
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=meytirm.visitor-badge)
-
 
 ### 🌐 Let's Connect
 
