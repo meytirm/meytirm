@@ -1,36 +1,20 @@
-<h1 align="center">Hi, I'm Mehdi 👋</h1>
+Hi, I'm Mehdi 👋
 
-<p align="center">
-  💻 Senior Frontend Developer | 🧠 JavaScript & TypeScript Enthusiast | 🌐 Web & Mobile Application Specialist
-</p>
+Frontend Developer | JavaScript & TypeScript
 
----
+I'm a Frontend Developer focused on building modern, responsive, and maintainable web applications.
 
-### 🧑‍💻 About Me
+Languages: JavaScript, TypeScript
 
-I'm a Senior Frontend Developer with a strong focus on building fast, scalable, and maintainable web and mobile applications. I care deeply about performance, accessibility, developer experience, and clean architecture.
+Frontend: Vue.js, Nuxt.js, React, Next.js
 
-- 🔭 Currently working on complex web/mobile apps with modern frontend stacks
-- 🧰 Tech Stack:
-  - **Languages:** JavaScript (ES6+), TypeScript
-  - **Frameworks/Libraries:** Vue.js, Nuxt.js, React, Next.js, React Native
-  - **Backend:** Node.js, Nest.js
-- 🎨 Advocate for clean UI/UX and component-driven architecture
-- 🧠 Constantly learning and experimenting with new tools and best practices
+Backend: Node.js, NestJS
 
----
+Interests: Software Architecture, Clean Code, Performance, and Scalable Applications
 
-### 🚀 My Focus Areas
+I'm continuously learning and improving my skills to build better software.
 
-- Scalable frontend architecture
-- Mobile-first & responsive design
-- SSR & performance optimization
-- Developer tooling and DX improvements
-- Collaboration with backend & design teams
-
----
-
-### 📈 GitHub Stats
+GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=meytirm&show_icons=true&theme=default&hide_title=true" />
@@ -38,14 +22,10 @@ I'm a Senior Frontend Developer with a strong focus on building fast, scalable, 
   <img src="https://streak-stats.demolab.com?user=meytirm&theme=default" />
 </p>
 
----
+Connect with Me
 
+LinkedIn: linkedin.com/in/meytirm
 
-### 🌐 Let's Connect
+Website: mehdi-rahmani.ir
 
-- 💼 LinkedIn: [linkedin.com/in/meytirm](https://www.linkedin.com/in/meytirm/)
-- 🌍 Website: [mehdi-rahmani.ir](https://mehdi-rahmani.ir/)
-- 📧 Email: mehdirahmani314@gmail.com
-
----
-
+Email: mehdirahmani314@gmail.com
